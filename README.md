@@ -1,5 +1,5 @@
-# Kirk's HTML In-Class Practice
+# Kirk's HTML & CSS In-Class Practice
 
 By Kirk von Kreisler, UT Austin
 
-Due September 12, 2020
+Due September 19, 2020
